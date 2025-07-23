@@ -1,4 +1,4 @@
-# Linkon
+i# Linkon
 
 **Linkon** is a sleek, modern browser-based chat application offering seamless, real-time messaging, beautiful UI, robust security, and instant access—no installs required.
 
@@ -113,4 +113,4 @@ Distributed under the MIT License.
 
 ---
 
-_Made with ❤️, GitHub, and **React** by Aditya_
+_Made with ❤️ by Aditya_
