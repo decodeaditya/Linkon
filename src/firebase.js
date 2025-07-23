@@ -4,12 +4,7 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 export const firebaseConfig = {
-  apiKey: "",
-  authDomain: "linkon-chatapp.firebaseapp.com",
-  projectId: "linkon-chatapp",
-  storageBucket: "linkon-chatapp.appspot.com",
-  messagingSenderId: "",
-  appId: ""
+  // file config here 
 };
 
 // Initialize Firebase
