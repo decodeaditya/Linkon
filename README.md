@@ -34,37 +34,47 @@ _Real-time messaging. No installation needed._
 
 ---
 
+## 📲 Install Linkon as a Web App (PWA)
+
+You can install Linkon on your device like a native app for quicker access and a full-screen experience. Here’s how:
+
+### On Desktop (Chrome, Edge, or Brave)
+1. Open [https://linkonchat.netlify.app](https://linkonchat.netlify.app) in your browser.
+2. Look for the **install icon** (a computer screen with a down arrow) in the right side of the address bar, or click the browser's menu (three dots).
+3. Click **Install Linkon** or **Add to desktop/applications**.
+4. The app will launch in its own window, pinned to your taskbar/start menu.
+
+### On Android (Chrome or Other Chromium Browsers)
+1. Visit [https://linkonchat.netlify.app](https://linkonchat.netlify.app).
+2. Tap the browser menu (three dots) in the top-right.
+3. Select **Add to Home screen** or **Install app**.
+4. Confirm the prompt. Linkon now appears with your other apps on your home screen.
+
+### On iOS (Safari)
+1. Open [https://linkonchat.netlify.app](https://linkonchat.netlify.app) in Safari.
+2. Tap the **Share** icon.
+3. Scroll and tap **Add to Home Screen**.
+4. Name the shortcut and tap **Add**. Linkon will install like a native app icon.
+
+---
+
 ## 📸 Screenshots
 
-Below are key screens of the Linkon app:
-
-<!-- Login Screen -->
-<!-- The login screen offers email/password input, password recovery, and sign-up options. -->
 **Sign In Screen**
 
 ![Sign In](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/85384656/7f099eda-c62b-4667-9687-47449d939fbe/1000011057.png)
 
-*Clean login interface for quick and secure access.*
-
 ---
 
-<!-- Chat List -->
-<!-- The chat list shows active conversations, search, and message previews. -->
 **Chat List**
 
 ![Chat List](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/85384656/b763753b-2838-4c78-bdc2-127dbb2098a9/1000011058.png)
 
-*Browse friends, check latest chats, or search contacts.*
-
 ---
 
-<!-- Chat Window -->
-<!-- The chat window enables real-time messaging, including images. -->
 **Chat Window**
 
 ![Chat Window](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/85384656/1142163a-e1a0-4c8e-bbf6-12b384694c54/1000011059.png)
-
-*Exchange text and images seamlessly, all in realtime.*
 
 ---
 
